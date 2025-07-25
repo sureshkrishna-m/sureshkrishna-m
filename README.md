@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm SureshKrishna M
 
-<!--
-**sureshkrishna-m/sureshkrishna-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Senior Automation QA Engineer
 
-Here are some ideas to get you started:
+ISTQB Certified tester with 10+ years of experience in software testing, specializing in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Web Automation Frameworks:** Java, Selenium, Playwright, Cypress
+- **REST API Testing:** RestAssured
+- **Testing Types:** Functional, Integration, End-to-End testing
+
+#### 🏢 **Project Domains:**
+- **Loan Mortgage:** Testing of In-house application for Underwriters
+- **Identity Verification:** KYC and Fraud prevention related projects
+- **Warehouse Management:** Manhattan application testing
+
+#### 🧑‍💻 **Professional Journey:**
+- Started as a manual tester (1 year), transitioned to automation
+- Experienced in handling complete software quality processes and product releases
+- Excellent in collaborating with cross-functional teams and mentoring QA team
+
+---
+
+## 📜 Certifications
+
+- **ISTQB Certified Tester**
+
+---
+
+## 🌐 Online Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/sureshkrishna-m-060670124/)
+- [LeetCode](https://leetcode.com/u/sureshkrishna_m/)
+
+---
+
+## 🏸 Hobbies & Interests
+
+- **Travel & Trekking**
+- **Reading**
+- **Badminton**
+- **Water Sports:** Passionate about swimming and free-diving
+
+---
+
+_“Quality is never an accident; it is always the result of intelligent effort.”_  
+
+---
