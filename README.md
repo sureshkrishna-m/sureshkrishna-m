@@ -4,7 +4,7 @@
 
 Senior Quality Engineering professional with **11+ years of experience** building scalable test automation and quality strategy across Web, API, integration, and end-to-end applications. I specialize in designing automation frameworks from the ground up, owning production quality gates, and mentoring teams toward higher release confidence - and I bring that foundation into **AI-assisted quality engineering**: testing GenAI-powered chatbots for accuracy, bias, hallucination, and security/guardrail risks, alongside building custom automation agents.
 
-📍 Chennai, India | ✉️ sureshkrishna.m@outlook.com
+📍 Abu Dhabi, UAE | ✉️ sureshkrishna.m@outlook.com
 
 ---
 
@@ -33,7 +33,7 @@ Senior Quality Engineering professional with **11+ years of experience** buildin
 
 ## 🏢 Domain Exposure
 
-E-Commerce · Airline/Travel Booking · Conversational AI / GenAI Chatbot · Fintech / KYC · Identity Verification · Mortgage - Loan Originations · Payment Gateway · PCI DSS · Enterprise Applications
+E-Commerce · Airline/Travel Booking · Conversational AI / GenAI Chatbot · Banking · Fintech / KYC · Identity Verification · Mortgage - Loan Originations · Payment Gateway · PCI DSS · Enterprise Applications
 
 ---
 
