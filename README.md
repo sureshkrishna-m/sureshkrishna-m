@@ -40,7 +40,7 @@ E-Commerce · Airline/Travel Booking · Conversational AI / GenAI Chatbot · Ban
 ## 🧑‍💻 Professional Journey
 
 - **Senior Software Engineer - Quality Engineering**, Firstsource Solutions Limited *(Jun 2024 - Present)*
-  Architected a Playwright + JavaScript framework for e-commerce testing; automated 450+ scenarios; led GenAI chatbot testing for accuracy, bias, and security; built AI agents for automated PR review and comment resolution.
+  Architected a Playwright + JavaScript framework for web application testing; automated 450+ scenarios; led GenAI chatbot testing for accuracy, bias, and security; built AI agents for automated PR review and comment resolution.
 
 - **Senior QA Engineer I**, Socure India Private Limited *(Feb 2022 - Feb 2024)*
   Owned end-to-end quality strategy for an identity verification/KYC platform; reduced post-production defects by ~20%; owned production Quality Gates across 10+ releases.
